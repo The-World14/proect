@@ -66,6 +66,10 @@ header .h3 {
   margin: 20px;
   border-radius: 15px;
 }
+.subjects1:hover {
+	border: 4px groove #b90000;
+	transition: 0.3s linear;
+}
 .subjects2 {
   background-color: #C5FF7C;
   width:  280px;
@@ -74,6 +78,10 @@ header .h3 {
   margin: 20px;
   border-radius: 15px;
 }
+.subjects2:hover {
+	border: 4px groove #8dfc05;
+	transition: 0.3s linear;
+}
 .subjects3 {
   background-color: #66F6FF;
   width:  280px;
@@ -81,7 +89,10 @@ header .h3 {
   padding: 50px;
   margin: 20px;
   border-radius: 15px;
-
+}
+.subjects3:hover {
+	border: 4px groove #02eeff;
+	transition: 0.3s linear;
 }
 .subject a{
   text-decoration: none;
