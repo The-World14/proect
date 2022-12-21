@@ -38,6 +38,7 @@ header .h3 {
 	height: 104px;
 	display: inline-block;
 	margin: 25px;
+	border-radius: 20px;
 }
 .class3 p {
 	margin-top: 28px;
