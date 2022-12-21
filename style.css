@@ -49,7 +49,7 @@ header .h3 {
 	color: black;
 }
 .class3 p:hover {
-	color: #FF6F00;
+  color: #FF6F00;
   transition: 0.3s linear;
 }
 .subject {
@@ -63,6 +63,7 @@ header .h3 {
   display: inline-block;
   padding: 50px;
   margin: 20px;
+  border-radius: 15px;
 }
 .subjects2 {
   background-color: #C5FF7C;
@@ -70,6 +71,7 @@ header .h3 {
   display: inline-block;
   padding: 50px;
   margin: 20px;
+  border-radius: 15px;
 }
 .subjects3 {
   background-color: #66F6FF;
@@ -77,6 +79,7 @@ header .h3 {
   display: inline-block;
   padding: 50px;
   margin: 20px;
+  border-radius: 15px;
 
 }
 .subject a{
