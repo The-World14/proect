@@ -1,9 +1,10 @@
 body {
 	font-family: sans-serif;
 	font-size: 25px;
+	color: #E5FAFF;
 }
 header {
-	background-color: #95F2FF;
+	background-color: #162EAE;
 	padding: 31px;
 	margin: 0px;
     text-align: center;
@@ -24,7 +25,7 @@ header .h3 {
 	color: black;
 }
 .classes {
-	background-color: #FFCFA6;
+	background-color: #FF6E4E;
 	text-align: center;
 	height: auto;
 }
